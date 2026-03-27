@@ -1,4 +1,5 @@
-# PROJECT1
+clear# PROJECT1
 This is my first Git Repository
 <br>
-Author - Kalsoom
+Author - Kalsoom Malik
+
